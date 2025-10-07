@@ -171,3 +171,8 @@ style_eksternal.css, tambahkan kode berikut.
   </div>
 </body>
 </html>
+
+
+```
+
+Sekian, Terima Kasih
